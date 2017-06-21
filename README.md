@@ -1,1 +1,1 @@
-# Earthquakes-Analytics-and-Prediction
+# Earthquakes-Analytics
